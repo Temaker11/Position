@@ -7,14 +7,23 @@
 .box1 {
   background-color: red;
   position: absolute;
-  right: 0px;
-  bottom: 0px;
+  top: 5px;
+  left: 5px;
+  z-index: 3;
 }
 
 .box2 {
   background-color: green;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 2;
 }
 
 .box3 {
   background-color: blue;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  z-index: 4;
 }

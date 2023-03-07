@@ -18,3 +18,7 @@ Controlar onde, na página, o elemento irá ficar, alterado o fluxo normal dos e
 - top, right, bottom, left, z-index
 
 ## Absolute
+
+## Fixed
+
+## Element stacking
